@@ -1,0 +1,147 @@
+*{
+    
+    
+
+}
+.navbar-brand{
+    
+}
+
+.container-fluid{
+    display: flex;
+    height: 100;
+    width: 800px;
+    margin: 15px;
+    /* 15px is looking the best for screen coverage */
+
+}
+
+.card1{
+    margin:3px;
+    background-color: rgb(238, 171, 14);
+    box-shadow: gray;
+    box-shadow: 5px 5px 5px 5px #e9e6e6;
+
+}
+.btn-outline-dark{
+    color: #FFFFFF;
+    background-color: rgb(235, 195, 20);
+    margin-left:10px ;
+    margin-bottom: 20px;
+    text-decoration:none;
+    
+}
+
+
+.card1-title {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    padding-right: 80px;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;  
+      font-size: 40px;
+}
+.card-text1{
+    padding: 20px;
+}
+
+.card2{
+    box-shadow: gray;
+    box-shadow: 5px 5px 5px 5px #e9e6e6;
+    background-position:center ;
+    background-image: url(https://images.pexels.com/photos/906494/pexels-photo-906494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-repeat: repeat;
+    margin-bottom: 2.5px;
+    margin-top: 2.5px;
+    margin-left: 2.5px;
+
+}
+.card3{
+    margin:2.5px;    box-shadow: 5px 5px 5px 5px #e9e6e6;
+    margin:2.5px;
+    background-color: #5a5a5a;
+    box-shadow: gray;
+}
+.card3-title{
+    color: white;
+    margin: 1px;
+    padding: 1px;
+    
+}
+.card3-text{
+    color: white;
+    margin-bottom: 200px;
+    text-align: left;
+    display: block;
+}
+
+.img{
+    height: auto;
+    width: fit-content;
+    margin:25px;
+    box-shadow: gray;
+    background-position:center ;
+    background-repeat: no-repeat;
+    background-size: auto;
+
+    
+}
+.card4{
+    box-shadow: 5px 5px 5px 5px #e9e6e6;
+    margin:2.5px;
+    background-color: rgb(238, 171, 14);
+    box-shadow: gray;
+
+}
+.card5{
+    box-shadow: 5px 5px 5px 5px #e9e6e6;
+    margin:2.5px;
+    background-color: rgb(238, 171, 14);
+    box-shadow: gray;
+
+}
+
+.card-body{
+}
+.card-text{
+    padding: 75px;
+}
+.a{
+    padding: 200px;
+    position: relative;
+}
+
+.container2-fluid{
+    display: flex;
+    height: 100%;
+    width: 800px;
+    margin: 0px;
+}
+.panel{
+    height: 100%;
+}
+.card6{
+    background-color: #5e5e5e;
+    margin: 2.5px;
+    box-shadow: gray;
+    box-shadow: 5px 5px 5px 5px #e9e6e6;
+}
+.card6-title{
+    color: rgb(238, 171, 14);
+    font-size: 45px;
+}
+.card7{
+    background-color: #5e5e5e;
+    margin: 2.5px;
+    box-shadow: gray;
+    box-shadow: 5px 5px 5px 5px #e9e6e6;
+}
+.card7-title{
+    color: rgb(238, 171, 14);
+    font-size: 45px;
+}
+
+.btn-outline-light{
+    color: lightseagreen;
+}
